@@ -1,0 +1,25 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "socket app",
+  "main": "index.js",
+  "scripts": {
+    "test": "initial commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayank9/mynodeapp.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "nayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayank9/mynodeapp/issues"
+  },
+  "homepage": "https://github.com/Nayank9/mynodeapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
